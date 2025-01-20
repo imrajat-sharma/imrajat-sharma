@@ -1,7 +1,9 @@
-# Hi there! 👋
+# Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="150" height="150" />
+
 I'm **Rajat Sharma**, an aspiring software engineer with a passion for web development and open-source contributions. I'm dedicated to building efficient and scalable web applications. 🚀
 
-![Coding GIF](https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif)
 
 ## Skills
 - 🌐 **Languages**: HTML, CSS, JavaScript, Python, Java
@@ -25,7 +27,7 @@ I'm **Rajat Sharma**, an aspiring software engineer with a passion for web devel
 - Exploring React and building a small project to enhance my skills.
 
 ## Get in Touch
-- 📧 Email: [rajat.s082005@gmail.com]
+- 📧 Email: rajat.s082005@gmail.com
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/imrajat-sharma)
 
 ## Hobbies
@@ -38,4 +40,4 @@ I'm **Rajat Sharma**, an aspiring software engineer with a passion for web devel
 ## Views Counter
 ![Profile Views](https://komarev.com/ghpvc/?username=imrajat-sharma&color=blue)
 
-![Rocket GIF](https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif)
+
