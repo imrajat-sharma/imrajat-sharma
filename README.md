@@ -68,7 +68,7 @@ Building scalable web applications with **TypeScript, React, Node.js, and AI**.
 
 ---
 
-# 🏆 Coding Profiles
+<!--# 🏆 Coding Profiles
 
 <p align="center">
 
@@ -77,6 +77,7 @@ Building scalable web applications with **TypeScript, React, Node.js, and AI**.
 </a>
 
 </p>
+-->
 
 ---
 
@@ -108,7 +109,7 @@ Building scalable web applications with **TypeScript, React, Node.js, and AI**.
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:rajatsharma.ts@email.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
