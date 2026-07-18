@@ -40,10 +40,10 @@ Building scalable web applications with **TypeScript, React, Node.js, and AI**.
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 Language Card
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrajat-sharma&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imrajat-sharma&theme=github_dark" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ Building scalable web applications with **TypeScript, React, Node.js, and AI**.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=imrajat-sharma&theme=github-dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=imrajat-sharma&theme=github-dark&hide_border=true" />
 
 </p>
 
