@@ -46,28 +46,6 @@ Building scalable web applications with **TypeScript, React, Node.js, and AI**.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imrajat-sharma&theme=github_dark" />
 </p>
 
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=imrajat-sharma&theme=github-dark&hide_border=true" />
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imrajat-sharma&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
-
 <!--# 🏆 Coding Profiles
 
 <p align="center">
@@ -78,22 +56,6 @@ Building scalable web applications with **TypeScript, React, Node.js, and AI**.
 
 </p>
 -->
-
----
-
-# 🚀 Featured Project
-
-### AI Mock Interview Platform
-
-> Full Stack AI interview platform with
-
-- Resume Analysis
-- Voice Interview
-- AI Feedback
-- Coding Interview
-- LangChain Agents
-- LLM Integration
-- Analytics Dashboard
 
 ---
 
