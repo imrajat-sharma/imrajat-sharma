@@ -1,88 +1,35 @@
 <div align="center">
 
-# Hi 👋 I'm Rajat Sharma
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:161b22&text=RAJAT%20SHARMA&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Engineer&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
 
-### Full Stack Developer • AI Engineer • Open Source Enthusiast
-
-Building scalable web applications with **TypeScript, React, Node.js, and AI**.
-
-<p>
-  <a href="https://github.com/imrajat-sharma">
-    <img src="https://img.shields.io/github/followers/imrajat-sharma?style=for-the-badge&logo=github" />
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=imrajat-sharma&style=for-the-badge" />
-
-  <img src="https://img.shields.io/github/stars/imrajat-sharma?affiliations=OWNER&style=for-the-badge" />
-</p>
-
-</div>
-
----
-
-# 🚀 About Me
-
-- 🎓 MCA Student
-- 💻 Full Stack Developer
-- 🤖 Exploring AI & LLM Applications
-- 🌱 Currently learning **LangChain, System Design & Cloud**
-- 🚀 Building real-world AI products
-
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,java,cpp,mongodb,postgres,mysql,docker,git,github,linux,tailwind,vscode&perline=9" />
-
-</p>
-
----
-
-# 📊 Language Card
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imrajat-sharma&theme=github_dark" />
-</p>
-
-<!--# 🏆 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://leetcard.jacoblin.cool/_rajatsharma_?theme=dark&font=baloo&ext=contest"/>
-</a>
-
-</p>
--->
-
----
-
-# 📫 Connect
-
-<p align="center">
+<br/>
 
 <a href="https://github.com/imrajat-sharma">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://img.shields.io/github/followers/imrajat-sharma?style=flat-square&logo=github&label=Followers" />
 </a>
-
-<a href="https://linkedin.com/in/imrajat-sharma">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+&nbsp;
+<a href="https://github.com/imrajat-sharma">
+  <img src="https://img.shields.io/github/stars/imrajat-sharma?style=flat-square&logo=github&label=Stars" />
 </a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=imrajat-sharma&style=flat-square&label=Profile+Views" />
 
-<a href="mailto:rajatsharma.ts@email.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+<br/><br/>
 
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+products;Exploring+LLMs%2C+RAG+%26+Agentic+AI;Full+Stack+Development+%7C+System+Design;Code+%E2%86%92+Learn+%E2%86%92+Build+%E2%86%92+Repeat" />
+
+</div>
 
 ---
 
-<div align="center">
+## `$ whoami`
 
-### Thanks for visiting ⭐
+```text
+Rajat Sharma
+──────────────────────────────────────────────
 
-*"Code • Learn • Build • Repeat"*
-
-</div>
+Role        → Full Stack Developer / AI Engineer
+Focus       → AI Applications • LLMs • RAG • Backend Systems
+Stack       → TypeScript • React • Node.js • Python
+Currently   → Learning LangChain • System Design • Cloud
+Mindset     → Build things that are useful.
