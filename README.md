@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="imrajat-sharma's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:161b22&text=RAJAT%20SHARMA&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Engineer&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
